@@ -21,4 +21,4 @@ Para: 			 -<br>
 # Visão Geral | Animação (GIF)
 ![Visão Geral do App](https://github.com/mariosergioti/QlikSense_APP_AnalisesInvestimentos/blob/main/Prints/v1.0.0/Vis%C3%A3o%20Geral%20-%20An%C3%A1lises%20de%20Investimentos%20-%20v1.0.0%20_%20print03.gif?raw=true)
 <br>
-Nota: Os ativos acima não se trata de recomendação de investimento, a finalidade é a demonstração das informações carregadas a dinâmica da aplicação.
+Nota: Os ativos acima não se trata de recomendações de investimentos, a finalidade é a demonstração das informações carregadas e a dinâmica da aplicação.
