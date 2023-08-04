@@ -1,6 +1,6 @@
 # Sobre
-Poderão utilizar o app para análises de Ações e também para observar como construir um processo de Web Scraping através do Qlik.<br>
-O objetido deste trabalho é social, didádico e para apoiar a comunidade Qlik.<br>
+Poderão utilizar o app para auxiliar na análises de Ações e também para observar como construir um processo de Web Scraping através do Qlik.<br>
+O objetivo deste trabalho é social, didádico e para apoiar a comunidade Qlik.<br>
 
 Agradeço ao StatusInvest pela riquesa de informações presentes no site, que foi utilizado como exemplo neste exercício de Web Scraping.<br>
 
