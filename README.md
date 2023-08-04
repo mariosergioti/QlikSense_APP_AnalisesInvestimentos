@@ -2,7 +2,7 @@
 
 Aplicação: 		3.1.1 Análises de Investimentos<br>
 Versão: 		1.0.0<br>
-Objetivo: 		Analisar indicadores para investimentos de ativos<br>
+Objetivo: 		Analisar indicadores para auxiliar no estudo de ativos<br>
 Antecessora:		-<br>
 Sucessora:		-<br>
 Dependência:		Arquivo da Web (Conector)<br>
