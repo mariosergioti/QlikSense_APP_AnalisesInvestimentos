@@ -8,7 +8,7 @@ Sucessora:		-<br>
 Dependência:		Arquivo da Web (Conector)<br>
 Dados:			https://statusinvest.com.br | https://www.codetable.net/entitiesinhtml<br>
 <br>
-Primira versão<br>
+Primeira versão<br>
 Data: 			 04/08/2023<br>
 Por: 			 Mario Sergio Soares (https://www.linkedin.com/in/mariosergioti)<br>
 <br>
