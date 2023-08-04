@@ -12,7 +12,7 @@ Objetivo: 		Analisar indicadores para auxiliar no estudo de ativos<br>
 Antecessora:		-<br>
 Sucessora:		-<br>
 Dependência:		Arquivo da Web (Conector)<br>
-Dev.:   Qlik Sense Desktop May 2023 Patch 1<br>
+Plataforma:   Qlik Sense Desktop May 2023 Patch 1<br>
 Dados:			https://statusinvest.com.br | https://www.codetable.net/entitiesinhtml<br>
 <br>
 Primeira versão<br>
