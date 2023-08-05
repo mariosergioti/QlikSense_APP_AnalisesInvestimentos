@@ -2,7 +2,7 @@
 Poderão utilizar o app para auxiliar nas análises de Ações e também para observar como construir um processo de Web Scraping através do Qlik.<br>
 O objetivo deste trabalho é filantrópico, didádico e para apoiar a comunidade Qlik.<br>
 
-Agradeço ao StatusInvest pela riquesa de informações presentes no site, que foi utilizado como exemplo neste exercício de Web Scraping.<br>
+Agradeço ao StatusInvest pela riqueza de informações presente no site, o qual foi utilizado como exemplo neste exercício de Web Scraping.<br>
 
 # Qlik Sense App Análises de Investimentos
 
